@@ -1,5 +1,5 @@
 # Frontend Mentor - Advice generator app
-
+# Aplicação web feita em JS utilizando arquitetura MVC
 ![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
